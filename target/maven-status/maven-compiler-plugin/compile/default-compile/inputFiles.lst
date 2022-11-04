@@ -1,0 +1,16 @@
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\service\ApoderadoService.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\EscuelaNuevaApplication.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\repository\ApoderadoRepository.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\service\ApoderadoServiceImpl.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\service\DistritoServiceImpl.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\controller\ApoderadoController.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\entity\ApoderadoEntity.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\service\ParentescoServiceImpl.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\entity\ParentescoEntity.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\controller\DistritoController.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\entity\DistritoEntity.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\controller\ParentescoController.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\repository\ParentescoRepository.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\repository\DistritoRepository.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\service\ParentescoService.java
+D:\IDAT\IDAT 5TO CICLO\ORIENTADO_SERVICIOS\WebServicesSpring\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNueva\service\DistritoService.java
